@@ -14,4 +14,9 @@ public class LocationLogic : MonoBehaviour
         else if (value == 2)
             SceneManager.LoadScene("CityScene");
     }
+
+    public void Exit()
+    {
+        Application.Quit();
+    }
 }

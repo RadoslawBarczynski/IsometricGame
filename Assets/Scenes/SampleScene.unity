@@ -2631,6 +2631,7 @@ MonoBehaviour:
   - {fileID: 3188719306160381434, guid: 21f9dfe1588c0dd438ad2552a8865d81, type: 3}
   - {fileID: 677789106757301348, guid: 856f7e93679e829459ac29eea6ff9b7b, type: 3}
   - {fileID: 464509721790817897, guid: 0f09cbe5762c187449e8785414e20808, type: 3}
+  gameManager: {fileID: 0}
   gameLogic: {fileID: 0}
   CardsInDeckValue: 0
   cardPrefab: {fileID: 1090171082045282923, guid: 4a5453782a756074baceb6659bc998cd, type: 3}
@@ -4494,7 +4495,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0.61694336, y: -82.00012}
+  m_AnchoredPosition: {x: 0.61694336, y: -31}
   m_SizeDelta: {x: -399.29, y: 357.78}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &2137712960
