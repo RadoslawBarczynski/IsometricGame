@@ -12,7 +12,7 @@ public class PanelsManager : MonoBehaviour
         if (value == 0)
         {
             cardPrefabsInCity.tempDeck.Clear();
-            cardPrefabsInCity.DestroyAllSlots();
+            //cardPrefabsInCity.DestroyAllSlots();
             CardSelectionPanel.SetActive(false);
         }
         else if(value == 1)
